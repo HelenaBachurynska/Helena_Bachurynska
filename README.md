@@ -30,5 +30,7 @@ ISTQB
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
 * [Test cases](https://drive.google.com/file/d/1WVVDvDxyjdQz50WZs_SGJwwxn1ResKYg/view?usp=sharing)
-## MY BUG REPORTS
+## MY BUGS
+* [Bug_rejestracja_Facebook](https://drive.google.com/file/d/1nXIaf4HaMSOTBKwNa_5UziOTr0g0ZKUl/view?usp=sharing)
+* [Bug_formularz_rejestracji](https://drive.google.com/file/d/1nXIaf4HaMSOTBKwNa_5UziOTr0g0ZKUl/view?usp=sharing)
 ## MY REPORT

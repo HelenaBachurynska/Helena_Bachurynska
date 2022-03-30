@@ -39,4 +39,4 @@ ISTQB
 * [Bug_wyszukiwarka_pierwsze_znaki](https://drive.google.com/file/d/1Qt75z3i7xHHWIYb9rAa6FtI977_vsVto/view?usp=sharing)
 * [Bug_formularz_kontaktu](https://drive.google.com/file/d/1Qt75z3i7xHHWIYb9rAa6FtI977_vsVto/view?usp=sharing)
 ## MY REPORT
-* [Report](https://drive.google.com/drive/folders/1QU0R9QCcV5_UxgoTdgZKUfBVpX5kjdWq?usp=sharing)
+* [Report](https://docs.google.com/document/d/1p-jXqA7Zak8vdC-2e7wOfShC7Bt0PZjJ/edit?usp=sharing&ouid=104187735132749849442&rtpof=true&sd=true)

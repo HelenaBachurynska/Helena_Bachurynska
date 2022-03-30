@@ -30,3 +30,4 @@ ISTQB
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
 ## MY BUG REPORTS
+## MY REPORT

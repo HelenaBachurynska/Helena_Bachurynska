@@ -15,7 +15,7 @@ I spent most of my career in biochemistry. I took participation at different sci
 * SCRUM
 * DevTools
 ## CERTIFICATES
-ISTQB
+ISTQB - Foundation Level
 ## COURSES
 * CodersLab - IT School
 * Udemy - Praktyczny kurs testowania opragramowania

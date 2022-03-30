@@ -1,4 +1,4 @@
-# Helena_Bachurynska
+# PORTFOLIO
 ## ABOUT ME
 I spent most of my career in biochemistry. I took participation at different science projects. Thanks to that I have good communications and analytical skills. I learn quickly and effectively. But I decided to make a major career change. Now I am an ISTQB Certified Tester. At Coder Labs I received my first-hand experience in software testing, and I develop my skills all time.
 ## TOOLS

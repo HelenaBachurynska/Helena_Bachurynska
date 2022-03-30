@@ -29,5 +29,6 @@ ISTQB
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 ## MY TEST CASE EXAMPLES
+* [Test cases](https://drive.google.com/file/d/1WVVDvDxyjdQz50WZs_SGJwwxn1ResKYg/view?usp=sharing)
 ## MY BUG REPORTS
 ## MY REPORT

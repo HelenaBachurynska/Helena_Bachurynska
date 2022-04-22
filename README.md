@@ -19,12 +19,14 @@ ISTQB - Foundation Level
 ## COURSES
 * CodersLab - IT School
 * Udemy - Praktyczny kurs testowania opragramowania
+* Udemy - Postman od podstaw
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
 * testuj.pl
 * testITka
 * remigiuszbednarczyk.pl
+* https://jsonplaceholder.typicode.com
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania

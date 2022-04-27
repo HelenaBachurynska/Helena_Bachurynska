@@ -27,7 +27,7 @@ ISTQB - Foundation Level
 * testuj.pl
 * testITka
 * remigiuszbednarczyk.pl
-* https://jsonplaceholder.typicode.com
+* jsonplaceholder.typicode.com
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania

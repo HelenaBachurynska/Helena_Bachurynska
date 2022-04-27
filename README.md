@@ -43,4 +43,4 @@ ISTQB - Foundation Level
 ## MY REPORT FOR PERFUMESCO.PL
 * [Report](https://drive.google.com/file/d/1PzbzsBwcIdMcYdsXYzKjAUsD4l6dxWMu/view?usp=sharing)
 ## Trello Postman Collection
-* [Postman Collection] (https://drive.google.com/file/d/1FY4k794amY2GJVxKWV43onX3yNjkZFIh/view?usp=sharing)
+* [Postman Collection](https://drive.google.com/file/d/1FY4k794amY2GJVxKWV43onX3yNjkZFIh/view?usp=sharing)

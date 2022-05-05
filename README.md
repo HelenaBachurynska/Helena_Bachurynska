@@ -33,9 +33,9 @@ ISTQB - Foundation Level
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
-## MY TEST CASE EXAMPLES FOR E-SHOP WWW.PERFUMESCO.PL
+## MY TEST CASE EXAMPLES FOR ON-LINE SHOP WWW.PERFUMESCO.PL
 * [Test cases](https://drive.google.com/file/d/1WVVDvDxyjdQz50WZs_SGJwwxn1ResKYg/view?usp=sharing)
-## MY BUGS FOR E-SHOP WWW.PERFUMESCO.PL
+## MY BUGS FOR ON-LINE SHOP WWW.PERFUMESCO.PL
 * [Bug_rejestracja_Facebook](https://drive.google.com/file/d/1nXIaf4HaMSOTBKwNa_5UziOTr0g0ZKUl/view?usp=sharing)
 * [Bug_formularz_rejestracji](https://drive.google.com/file/d/1nXIaf4HaMSOTBKwNa_5UziOTr0g0ZKUl/view?usp=sharing)
 * [Bug_nie_dziala_link](https://drive.google.com/file/d/1Jc7Pr9KfnLnp47GJk3on6yA__q8b88VK/view?usp=sharing)
@@ -43,7 +43,7 @@ ISTQB - Foundation Level
 * [Bug_wyszukiwarka_brak_produktu](https://drive.google.com/file/d/1HU41MeKBLhJp8uxh6_LUiNbCYGTFv8G0/view?usp=sharing)
 * [Bug_wyszukiwarka_pierwsze_znaki](https://drive.google.com/file/d/1Qt75z3i7xHHWIYb9rAa6FtI977_vsVto/view?usp=sharing)
 * [Bug_formularz_kontaktu](https://drive.google.com/file/d/1Qt75z3i7xHHWIYb9rAa6FtI977_vsVto/view?usp=sharing)
-## MY REPORT FOR E-SHOP WWW.PERFUMESCO.PL
+## MY REPORT FOR ON-LINE SHOP WWW.PERFUMESCO.PL
 * [Report](https://drive.google.com/file/d/1PzbzsBwcIdMcYdsXYzKjAUsD4l6dxWMu/view?usp=sharing)
 ## Trello Postman Collection
 * [Postman Collection](https://drive.google.com/file/d/1FY4k794amY2GJVxKWV43onX3yNjkZFIh/view?usp=sharing)

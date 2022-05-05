@@ -28,7 +28,7 @@ ISTQB - Foundation Level
 * testITka
 * remigiuszbednarczyk.pl
 * jsonplaceholder.typicode.com
-* https://sqlzoo.net 
+* sqlzoo.net 
 ## GROUPS ON FACEBOOK
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania

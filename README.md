@@ -48,4 +48,5 @@ ISTQB - Foundation Level
 ## Trello Postman Collection
 * [Postman Collection](https://drive.google.com/file/d/1FY4k794amY2GJVxKWV43onX3yNjkZFIh/view?usp=sharing)
 ## MY SQL QUERIES
-* [SELECT within SELECT](https://drive.google.com/file/d/1lQI4csM9gv7F7PHGolLpR3IH4g1RgIsT/view?usp=sharing)
+* [SELECT within SELECT 4](https://drive.google.com/file/d/1lQI4csM9gv7F7PHGolLpR3IH4g1RgIsT/view?usp=sharing)
+* [SELECT within SELECT 2](https://drive.google.com/file/d/1AGe4Z0Rw3zT3OihXRQlqEUkpRuviKS9n/view?usp=sharing)

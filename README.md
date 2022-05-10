@@ -47,3 +47,5 @@ ISTQB - Foundation Level
 * [Report](https://drive.google.com/file/d/1PzbzsBwcIdMcYdsXYzKjAUsD4l6dxWMu/view?usp=sharing)
 ## Trello Postman Collection
 * [Postman Collection](https://drive.google.com/file/d/1FY4k794amY2GJVxKWV43onX3yNjkZFIh/view?usp=sharing)
+## MY SQL QUERIES
+* [SELECT within SELECT](https://drive.google.com/file/d/1lQI4csM9gv7F7PHGolLpR3IH4g1RgIsT/view?usp=sharing)
